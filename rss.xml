@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[sandbox]]></title>
         <description><![CDATA[sandbox]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sandbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 22:04:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 22:05:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sandbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crafting cultural icons: designing hardware in the digital age | The Startup Magazine]]></title>
+            <description><![CDATA[<article><h1>Crafting cultural icons: designing hardware in the digital age | The Startup Magazine</h1><p>The design process is organic. The white moments arrive after a gestation period for both us and the client. We have a fair amount of dialogue, breaking up the core issues and core problems we are facing. When that idea arrives, there is always a recognition that this is an important concept, a big recognition.</p><img src="https://thestartupmag-6868445.netdna-ssl.com/wp-content/uploads/2015/10/gadi.jpeg"></article>]]></description>
+            <link>https://thestartupmag.com/crafting-cultural-icons-designing-hardware-digital-age?utm_content=buffer53e5c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">df577152-efe6-4ac1-8d2a-c68ba55c6a53</guid>
+            <pubDate>Sat, 28 Nov 2015 22:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/sandbox/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">0d41da0c-2a43-412f-b2fe-e73612fcf92b</guid>
+            <pubDate>Sat, 28 Nov 2015 22:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deja vu | KAMRA]]></title>
             <description><![CDATA[<article><h1>Deja vu | KAMRA</h1><p>あなたの顔が Deja vu する、インタラクティブミュージックビデオ。KAMRA ニューアルバム「Artificial Emotions」発売中。</p><img src="https://kamra.invisi-dir.com/ogimage.jpg"></article>]]></description>
