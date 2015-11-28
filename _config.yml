@@ -1,7 +1,7 @@
 name: sandbox
 favicon: null
-layout_spectrum: 0.8882721341215074
-typography_spectrum: 0.8734248112887144
+layout_spectrum: 0.50732
+typography_spectrum: 0.52727
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fefefe'
+    - '#515151'
+    - '#979797'
+    - '#c3c3c3'
+    - '#212121'
   brandStrength: 0.5385343653615564
   lightness: 0.6464341059327126
   saturation: 0.04678475158289075
