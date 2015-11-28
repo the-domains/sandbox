@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sandbox]]></title>
+        <description><![CDATA[sandbox]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 22:04:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deja vu | KAMRA]]></title>
+            <description><![CDATA[<article><h1>Deja vu | KAMRA</h1><p>あなたの顔が Deja vu する、インタラクティブミュージックビデオ。KAMRA ニューアルバム「Artificial Emotions」発売中。</p><img src="https://kamra.invisi-dir.com/ogimage.jpg"></article>]]></description>
+            <link>https://kamra.invisi-dir.com/</link>
+            <guid isPermaLink="false">4e7f2b2a-f76e-4f0c-ab57-b39d99f08b02</guid>
+            <pubDate>Sat, 28 Nov 2015 22:04:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
