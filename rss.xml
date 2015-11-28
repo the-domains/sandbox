@@ -4,8 +4,15 @@
         <description><![CDATA[sandbox]]></description>
         <link>https://thegrid.ai/sandbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 22:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 22:19:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from goldfoot (@goldfoot). CD, AD, UX, UI, Maker, Fixer, Breaker. San Francisco</p>]]></description>
+            <link>https://twitter.com/goldfoot</link>
+            <guid isPermaLink="false">8f1ce370-4c88-4852-ab22-53c2bc960894</guid>
+            <pubDate>Sat, 28 Nov 2015 22:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Core Principles of Growth Hackers]]></title>
             <description><![CDATA[<article><h1>Core Principles of Growth Hackers</h1><p>I asked three growth hackers -   Morgan Brown, Lincoln Murphy, and Jim Gray  - "What five tools are in your growth hackers' toolbox?" I loved that their initial responses weren't products (which is unexpected, right?):</p><img src="http://cdn2.hubspot.net/hub/333468/file-1008077609-jpg/blog-images/Core_Principles.jpg#keepProtocol"></article>]]></description>
