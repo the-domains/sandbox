@@ -1,7 +1,7 @@
 name: sandbox
 favicon: null
-layout_spectrum: 0.50732
-typography_spectrum: 0.52727
+layout_spectrum: 0.23809
+typography_spectrum: 0.19943
 cta:
   domain: null
   bucket: null
