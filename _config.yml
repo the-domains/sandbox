@@ -1,6 +1,6 @@
 name: sandbox
 favicon: null
-layout_spectrum: 0.8393
+layout_spectrum: 0.75226
 typography_spectrum: 0.19943
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#979797'
     - '#c3c3c3'
     - '#212121'
-  brandStrength: 0.5385343653615564
+  brandStrength: 0.6875
   lightness: 0.8125
   saturation: 0.125
   rhythmicContrast: 0.25
